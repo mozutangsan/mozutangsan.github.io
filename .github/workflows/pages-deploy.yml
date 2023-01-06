@@ -38,7 +38,9 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v1
-
+        with: 
+          token: ${{secrets.TOKEN}}
+          
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
