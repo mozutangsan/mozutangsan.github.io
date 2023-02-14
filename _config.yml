@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 
 title: 模组唐三                          # the main title
 
-tagline: 一位mc和原玩家   # it will display as the sub-title
+tagline: 一位mc和原神玩家   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
